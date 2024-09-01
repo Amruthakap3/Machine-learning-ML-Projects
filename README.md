@@ -5,7 +5,7 @@
 This repository contains several machine learning projects, each focusing on different techniques and applications. Below is a brief overview of each project.
 
 ## Table of Contents
-- [Project 1: Customer Satisfaction dataset analysis](#[project-1-predicting-house-prices](https://github.com/Amruthakap3/Machine-learning-ML-Projects/blob/main/customer__satisfaction.ipynb))
+- [Project 1: Customer Satisfaction dataset analysis](#project-1-Customer-Satisfaction-dataset-analysis)
 - [Project 2: Image Classification with CNNs](#project-2-image-classification-with-cnns)
 - [Project 3: Clustering Customer Data](#project-3-clustering-customer-data)
 - [Project 4: Reinforcement Learning for Game AI](#project-4-reinforcement-learning-for-game-ai)
