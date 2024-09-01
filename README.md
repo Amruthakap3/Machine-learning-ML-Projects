@@ -5,17 +5,24 @@
 This repository contains several machine learning projects, each focusing on different techniques and applications. Below is a brief overview of each project.
 
 ## Table of Contents
-- [Project 1: Predicting House Prices](#project-1-predicting-house-prices)
+- [Project 1: Customer Satisfaction dataset analysis](#project-1-predicting-house-prices)
 - [Project 2: Image Classification with CNNs](#project-2-image-classification-with-cnns)
 - [Project 3: Clustering Customer Data](#project-3-clustering-customer-data)
 - [Project 4: Reinforcement Learning for Game AI](#project-4-reinforcement-learning-for-game-ai)
 - [Project 5: Sentiment Analysis with NLP](#project-5-sentiment-analysis-with-nlp)
 
 ## Project 1: Predicting House Prices
-- **Description**: A project using linear regression to predict house prices based on various features such as square footage, number of bedrooms, and location.
-- **Key Techniques**: Linear Regression, Feature Engineering.
-- **Dataset**: [Boston Housing Dataset](https://archive.ics.uci.edu/ml/datasets/Housing).
-- **Outcome**: The model achieved an R^2 score of 0.85.
+- **Description**: Customer Satisfaction dataset and analyzed the data in multiple ways like plotting, correlation to identify the relationship with the decision variable, etc. We followed the following steps
+
+- **pipelines to impute and prepare data
+- **pipelines to perform classification
+- **Encode the labels for multi-classification
+- **converting decision trees to text and graph
+- **performing grid search to optimize a few hyperparameters
+
+- **Outcome**: The obtained results show that the average accuracy measure for all models was around 48% to 55%.
+  GridSearchCV was not performed exhaustively although the last two experiments and the plotted graph show that modest improvements can be made by just optimizing a few hyperparameters.
+
 
 ## Project 2: Image Classification with CNNs
 - **Description**: Implementation of a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset.
